@@ -1,0 +1,38 @@
+_repo: Alcohol-and-the-Human-Brain_42435
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: National Temperance Society and Publication House
+    gutenberg_agent_id: '41705'
+    url: http://www.gutenberg.org/2009/agents/41705
+covers:
+- cover_type: archival
+  image_path: 42435-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cook, Joseph
+    aliases:
+    - Cook, F. Joseph
+    - Cook, Flavius J. (Flavius Josephus)
+    - Cook, Flavius Josephus
+    birthdate: 1838
+    deathdate: 1901
+    gutenberg_agent_id: '41687'
+    url: http://www.gutenberg.org/2009/agents/41687
+description: ''
+gutenberg_issued: '2013-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alcohol -- Physiological effect'
+- !lcc 'HV'
+- !lcsh 'Temperance'
+- !lcsh 'Church and social problems'
+- !lcsh 'Alcoholism'
+title: Alcohol and the Human Brain
+url: http://www.gutenberg.org/ebooks/42435
