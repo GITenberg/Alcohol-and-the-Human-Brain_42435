@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41687'
     url: http://www.gutenberg.org/2009/agents/41687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42435#Alcohol-and-the-Human-Brain
 gutenberg_issued: '2013-03-30'
 gutenberg_type: Text
 identifiers:
